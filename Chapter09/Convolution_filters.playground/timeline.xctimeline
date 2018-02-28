@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=1625&amp;EndingColumnNumber=9&amp;EndingLineNumber=42&amp;StartingColumnNumber=8&amp;StartingLineNumber=42&amp;Timestamp=539471273.880253"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=1782&amp;EndingColumnNumber=14&amp;EndingLineNumber=48&amp;StartingColumnNumber=13&amp;StartingLineNumber=48&amp;Timestamp=539471273.880542"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=1622&amp;EndingColumnNumber=9&amp;EndingLineNumber=42&amp;StartingColumnNumber=5&amp;StartingLineNumber=42&amp;Timestamp=539471273.8807991"
+         lockedSize = "{448, 291}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=2115&amp;EndingColumnNumber=0&amp;EndingLineNumber=58&amp;StartingColumnNumber=0&amp;StartingLineNumber=58&amp;Timestamp=539471273.881019"
+         lockedSize = "{911, 643}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=2049&amp;EndingColumnNumber=12&amp;EndingLineNumber=56&amp;StartingColumnNumber=5&amp;StartingLineNumber=56&amp;Timestamp=539471273.881164"
+         lockedSize = "{454, 320}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=9&amp;CharacterRangeLoc=1774&amp;EndingColumnNumber=14&amp;EndingLineNumber=48&amp;StartingColumnNumber=5&amp;StartingLineNumber=48&amp;Timestamp=539471273.8813159"
+         lockedSize = "{447, 303}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=2116&amp;EndingColumnNumber=0&amp;EndingLineNumber=59&amp;StartingColumnNumber=0&amp;StartingLineNumber=59&amp;Timestamp=539471273.881444"
+         lockedSize = "{480, 315}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=4&amp;CharacterRangeLoc=2122&amp;EndingColumnNumber=9&amp;EndingLineNumber=60&amp;StartingColumnNumber=5&amp;StartingLineNumber=60&amp;Timestamp=539471273.881663"
+         lockedSize = "{217, 217}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=8&amp;CharacterRangeLoc=2694&amp;EndingColumnNumber=13&amp;EndingLineNumber=77&amp;StartingColumnNumber=5&amp;StartingLineNumber=77&amp;Timestamp=539471273.881868"
+         lockedSize = "{222, 207}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=5&amp;CharacterRangeLoc=2288&amp;EndingColumnNumber=10&amp;EndingLineNumber=65&amp;StartingColumnNumber=5&amp;StartingLineNumber=65&amp;Timestamp=539471273.882079"
+         lockedSize = "{225, 217}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/9_cnn/Convolution_filters.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=2504&amp;EndingColumnNumber=11&amp;EndingLineNumber=71&amp;StartingColumnNumber=5&amp;StartingLineNumber=71&amp;Timestamp=539471273.882223"
+         lockedSize = "{228, 216}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>

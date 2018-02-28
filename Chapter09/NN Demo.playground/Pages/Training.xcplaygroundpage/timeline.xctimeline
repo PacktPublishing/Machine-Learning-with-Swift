@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=0&amp;CharacterRangeLoc=2630&amp;EndingColumnNumber=0&amp;EndingLineNumber=83&amp;StartingColumnNumber=0&amp;StartingLineNumber=83&amp;Timestamp=521025509.300724"
+         lockedSize = "{188, 271}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=0&amp;CharacterRangeLoc=2630&amp;EndingColumnNumber=0&amp;EndingLineNumber=83&amp;StartingColumnNumber=0&amp;StartingLineNumber=83&amp;Timestamp=521025509.300934"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=0&amp;CharacterRangeLoc=2630&amp;EndingColumnNumber=0&amp;EndingLineNumber=83&amp;StartingColumnNumber=0&amp;StartingLineNumber=83&amp;Timestamp=521025509.301161"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=2629&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=1&amp;EndingLineNumber=82&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=521025509.301314"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=2629&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=1&amp;EndingLineNumber=82&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=521025509.301462"
+         lockedSize = "{198, 113}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=2629&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=1&amp;EndingLineNumber=82&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=521025509.301618"
+         lockedSize = "{313, 319}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=2629&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=1&amp;EndingLineNumber=82&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=521025509.301757"
+         lockedSize = "{341.5, 50}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=2629&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=1&amp;EndingLineNumber=82&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=521025509.301895"
+         lockedSize = "{370.5, 130}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=2629&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=1&amp;EndingLineNumber=82&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=521025509.30205"
+         lockedSize = "{343, 316}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/8_cnn/NN%20Demo.playground/Pages/Training.xcplaygroundpage#CharacterRangeLen=2629&amp;CharacterRangeLoc=0&amp;EndingColumnNumber=1&amp;EndingLineNumber=82&amp;StartingColumnNumber=0&amp;StartingLineNumber=0&amp;Timestamp=521025509.302206"
+         lockedSize = "{325.5, 50}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>

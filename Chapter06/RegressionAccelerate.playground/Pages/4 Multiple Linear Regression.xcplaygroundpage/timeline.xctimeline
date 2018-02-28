@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=1687&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=54&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.755475"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=1687&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=54&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.75565"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=2&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.755787"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=2&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.75592"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=2&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.756047"
+         lockedSize = "{753, 155}"
+         selectedRepresentationIndex = "2"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=2&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.75618"
+         lockedSize = "{805, 155}"
+         selectedRepresentationIndex = "2"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=2&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.756337"
+         lockedSize = "{284, 128}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=2&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.756466"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=2&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.75659"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=1687&amp;CharacterRangeLoc=19&amp;EndingColumnNumber=0&amp;EndingLineNumber=54&amp;StartingColumnNumber=0&amp;StartingLineNumber=2&amp;Timestamp=520627071.756731"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=32&amp;CharacterRangeLoc=1046&amp;EndingColumnNumber=0&amp;EndingLineNumber=37&amp;StartingColumnNumber=1&amp;StartingLineNumber=36&amp;Timestamp=520627071.756853"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=77&amp;CharacterRangeLoc=1342&amp;EndingColumnNumber=0&amp;EndingLineNumber=46&amp;StartingColumnNumber=14&amp;StartingLineNumber=44&amp;Timestamp=520627071.756985"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=43&amp;CharacterRangeLoc=1420&amp;EndingColumnNumber=0&amp;EndingLineNumber=47&amp;StartingColumnNumber=1&amp;StartingLineNumber=46&amp;Timestamp=520627071.757178"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=798&amp;EndingColumnNumber=39&amp;EndingLineNumber=27&amp;StartingColumnNumber=29&amp;StartingLineNumber=27&amp;Timestamp=520627071.757303"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=24&amp;CharacterRangeLoc=838&amp;EndingColumnNumber=53&amp;EndingLineNumber=28&amp;StartingColumnNumber=29&amp;StartingLineNumber=28&amp;Timestamp=520627071.757426"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=36&amp;CharacterRangeLoc=1670&amp;EndingColumnNumber=0&amp;EndingLineNumber=54&amp;StartingColumnNumber=1&amp;StartingLineNumber=53&amp;Timestamp=520627071.757546"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=39&amp;CharacterRangeLoc=1079&amp;EndingColumnNumber=0&amp;EndingLineNumber=38&amp;StartingColumnNumber=1&amp;StartingLineNumber=37&amp;Timestamp=520627071.75774"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=43&amp;CharacterRangeLoc=1625&amp;EndingColumnNumber=0&amp;EndingLineNumber=52&amp;StartingColumnNumber=1&amp;StartingLineNumber=51&amp;Timestamp=520627071.757902"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Oleksandr/projects/personal/book_swift_ml_code/5_linear_models/RegressionAccelerate.playground#CharacterRangeLen=7&amp;CharacterRangeLoc=1573&amp;EndingColumnNumber=12&amp;EndingLineNumber=50&amp;StartingColumnNumber=5&amp;StartingLineNumber=50&amp;Timestamp=520627071.758025"
+         lockedSize = "{246, 50}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
